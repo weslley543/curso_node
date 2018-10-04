@@ -4,4 +4,4 @@ node_js:
  services:
  -mongodb
  env:
- NODE_BNV=TEST
+ NODE_ENV=TEST
